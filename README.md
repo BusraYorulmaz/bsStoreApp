@@ -3,5 +3,5 @@
 
 - Asp.Net Core Web API 
 - Postman
--Entity freamwork
--N-Tier Architecture
+- Entity freamwork
+- N-Tier Architecture
