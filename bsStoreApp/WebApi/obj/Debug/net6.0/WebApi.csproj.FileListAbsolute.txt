@@ -72,3 +72,5 @@ C:\Users\busra\source\repos\bsStoreApp\WebApi\bin\Debug\net6.0\Newtonsoft.Json.B
 C:\Users\busra\source\repos\bsStoreApp\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\busra\source\repos\bsStoreApp\WebApi\bin\Debug\net6.0\Entities.dll
 C:\Users\busra\source\repos\bsStoreApp\WebApi\bin\Debug\net6.0\Entities.pdb
+C:\Users\busra\source\repos\bsStoreApp\WebApi\bin\Debug\net6.0\Repositories.dll
+C:\Users\busra\source\repos\bsStoreApp\WebApi\bin\Debug\net6.0\Repositories.pdb
