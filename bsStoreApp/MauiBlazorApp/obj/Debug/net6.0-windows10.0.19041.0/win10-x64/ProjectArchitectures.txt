@@ -1,0 +1,1 @@
+C:\Users\busra\source\repos\bsStoreApp\MauiBlazorApp\MauiBlazorApp.csproj;x64
