@@ -21,6 +21,7 @@ namespace Presentation.Controllers
         }
 
         [HttpGet]
+        [Route("GetAllBooks")]
         public IActionResult GetAllBooks()
         {
             try

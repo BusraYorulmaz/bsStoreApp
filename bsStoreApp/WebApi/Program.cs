@@ -1,7 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using Repositories.EFCore;
-using WebApi.Extensions;
+using WebApi.Extensions; 
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +20,12 @@ builder.Services.AddSwaggerGen();
 builder.Services.ConfigureSqlContext(builder.Configuration);
 builder.Services.ConfigureRepositoryManger();
 builder.Services.ConfigureServiceyManger();
+
+
+
+
+
+
 
 
 var app = builder.Build();
